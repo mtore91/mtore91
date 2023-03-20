@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [martintore.netlify.app/](martintore.netlify.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/martin-tore/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
