@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate fullstack developer from Sweden</h3>
 
-- 🔭 I’m currently working on [Let's Play - a full stack webapp for pick up sports](https://letsplay.up.railway.app/)
+- 🔭 I’m currently working on [IFS Buddy - the chatbot self therapy companion](https://ifs-therapist.vercel.app) which has more than 1K unique users.
 
 - 🌱 I’m currently improving my skills in **React, Typescript, and data structures & algorithms**
 
-- 🤝 I’m looking for help with [Improving the UI/UX on Let's Play](https://github.com/mtore91/lets-play-sports-social-app)
+- 🤝 I’m looking for help with [Improving the IFS therapist app](https://github.com/mtore91/ifs-therapist)
 
 - 👨‍💻 All of my projects are available at [martintore.netlify.app/](martintore.netlify.app/)
 
